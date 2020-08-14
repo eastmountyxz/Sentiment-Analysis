@@ -2,6 +2,10 @@
 该资源为调用大连理工情感词典实现的情感分析和情绪分类，并与SnowNLP进行对比。 <br />
 基础性文章，希望对您有所帮助~ <br />
 
+目录：
+- 机器学习情感分类
+
+
 <div align="center">
   <img src="https://img-blog.csdnimg.cn/20200808215829460.png" height="60%" width="60%" />
 </div>
