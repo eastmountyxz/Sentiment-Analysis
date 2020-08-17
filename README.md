@@ -19,6 +19,7 @@
 
 推荐作者对应的博客：
 - [[Python人工智能] 二十二.基于大连理工情感词典的情感分析和情绪计算](https://blog.csdn.net/Eastmount/article/details/107877713)
+- [[Python人工智能] 二十三.基于机器学习和TFIDF的情感分类（含详细的NLP数据清洗）](https://blog.csdn.net/Eastmount/article/details/107906799)
 
 
 ---
