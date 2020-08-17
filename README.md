@@ -17,7 +17,7 @@
 </div>
 
 <div align="center">
-  <img src="https://img-blog.csdnimg.cn/20200817143255618.png" height="60%" width="60%" />
+  <img src="https://img-blog.csdnimg.cn/20200817143255618.png" height="80%" width="80%" />
 </div>
 
 推荐作者对应的博客：
