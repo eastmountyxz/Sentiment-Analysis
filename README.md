@@ -6,6 +6,9 @@
 - 大连理工大学情感词典情绪抽取
 - 机器学习情感分类
 - 深度学习情感分类
+- BiLSTM
+- CNN
+- Attention
 
 
 <div align="center">
