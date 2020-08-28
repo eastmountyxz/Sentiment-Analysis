@@ -9,6 +9,8 @@
 - BiLSTM
 - CNN
 - Attention
+- BiLSTM-CNN
+- GAN
 
 
 <div align="center">
